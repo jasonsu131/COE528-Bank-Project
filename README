@@ -1,0 +1,20 @@
+File must be ran from the Bank.java file.
+
+To login as a manager:
+	Username: admin
+	password: admin
+	Role: manager
+
+Manager can create or delete customer files.
+
+Customer Files have the same name as their username and consist of 2 lines
+line 1 is the password needed to login.
+line 2 is their balance and is updated with each transaction
+
+To login as a customer:
+	Enter username and password, set role to customer
+	Username: test
+	password: test
+	Role: customer
+
+
